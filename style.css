@@ -1,0 +1,35 @@
+.table {
+    width:60%;
+ }
+ .row{
+    height:100px;
+    text-align:center;
+ }
+ .th{
+     width:25%;
+    }
+    #tr{
+     height:200px;
+     text-align: center;
+    }
+    .h{
+        color:rgba(38, 172, 225, 0.963); 
+        font-size:25px;
+    }
+    #id{
+        color:rgba(38, 172, 225, 0.963);
+        font-size:50px;
+    }
+    .body{
+        background-color: #ccc;
+    }
+    .page{
+        width:990px;
+        margin: auto;
+        background-color: #fff;
+        padding: 20px 50px;
+    }
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
